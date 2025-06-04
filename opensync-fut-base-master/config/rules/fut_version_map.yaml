@@ -1,0 +1,12 @@
+debian_client:
+  recommended: '3.0.32'
+  legacy: '3.0.32'
+  public: '3.1.12'
+debian_server:
+  recommended: '3.0.25'
+  legacy: '3.0.25'
+  public: '3.1.10'
+rpi_server:
+  recommended: '2.0-195'
+  legacy: 'v2.0-187'
+  public: 'v2.1-12'
